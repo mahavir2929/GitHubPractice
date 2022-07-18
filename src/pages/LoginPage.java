@@ -3,8 +3,10 @@ package pages;
 public class LoginPage {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		System.out.println("this is login page");
+		System.out.println("this is second line added");
+		
 	}
 
 }
