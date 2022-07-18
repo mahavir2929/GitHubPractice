@@ -6,6 +6,7 @@ public class Orderpage {
 		// TODO Auto-generated method stub
 
 		System.out.println("this is order page");
+		int age=25;
 	}
 
 }
